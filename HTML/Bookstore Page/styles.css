@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Bree Serif";
+    background-color: #1b1b1b;
+}
+
+.card {
+    border-color: #1b1b1b;
+    border-radius: 15px;
+}
+
+.top-section {
+    margin: 20px;
+}
+
+.image1 {
+    height: 220px;
+    width: 150px;
+    border-radius: 15px;
+}
+
+.image2 {
+    height: 180px;
+    width: 100px;
+    margin: 10px;
+}
+
+.heading1 {
+    color: white;
+    font-size: 35px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.heading2 {
+    font-size: 20px;
+}
+
+.heading3 {
+    font-size: 20px;
+    color: white;
+}
+
+.content {
+    padding: 20px;
+    background-color: #e6f6ff;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.content-2 {
+    color: white;
+    padding: 10px;
+}
+
+.heading-4 {
+    color: white;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.apj {
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading5 {
+    color: white;
+    text-align: center;
+}
+
+.buttons {
+    /* display:block;
+    margin-left:auto;
+    margin-right:auto; */
+}
+
+.paragraph {
+    color: white;
+}
+
+.button-1 {
+    margin-right: 5px;
+    background-color: orange;
+    color: black;
+    border-color: orange;
+}
+
+.paragraph-container {
+    text-align: center;
+}
