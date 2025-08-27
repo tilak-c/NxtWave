@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+body {
+    font-family: "Bree Serif";
+}
+
+.bg-container {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.sunrise-home-card {
+    background-color: white;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    height: 220px;
+    text-align: center;
+}
+
+.sunrise-home-heading {
+    color: #f19116;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.sunrise-home-paragraph {
+    color: #7b8794;
+}
+
+.sunrise-home-button {
+    background-color: #f19116;
+    color: #ffffff;
+}
+
+.avenue-card {
+    background-color: #ffffff;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+.avenue-image {
+    height: 180px;
+    width: 80px;
+    margin: 20px;
+}
+
+.avenue-card-content {
+    padding: 5px;
+    margin: 2px;
+}
+
+.avenue-button {
+    background-color: #f19116;
+    color: white;
+}
+
+.avenue-content {
+    background-color: #222222;
+}
+
+.flat-image {
+    height: 230px;
+}
+
+.location-icon {
+    width: 50px;
+    margin: 5px;
+}
+
+.button-1 {
+    background-color: #f19116;
+    color: white;
+    margin-right: 10px;
+}
+
+.button-2 {
+    background-color: #f19116;
+    color: white;
+}
+
+.bhk-flat-page {
+    background-color: #222222;
+    color: white;
+    height: 100vh;
+}
+
+.bhk-flat-page-content {
+    margin: 15px;
+}
