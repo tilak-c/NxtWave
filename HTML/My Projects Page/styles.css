@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Bree Serif";
+}
+
+.image1 {
+    height: 220px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content {
+    text-align: center;
+    color: #183b56;
+}
+
+.heading1 {
+    font-size: 30px;
+}
+
+.image2 {
+    height: 130px;
+    margin: 5px;
+}
+
+.image3 {
+    height: 130px;
+    margin: 5px;
+}
+
+.image4 {
+    height: 130px;
+    margin: 5px;
+}
+
+.image5 {
+    height: 130px;
+    margin: 5px;
+}
+
+
+.bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: "Bree Serif";
+    color: #5752ab;
+}
+
+.card {
+    padding: 5px;
+    height: 200px;
+    background-color: #ffffff;
+    color: #323f4b;
+    padding: 20px;
+}
+
+.buttons {
+    margin-right: 10px;
+}
+
+.button1 {
+    color: #171f46;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border-color: #171f46;
+    width: 130px;
+}
+
+.button2 {
+    color: #ffffff;
+    background-color: #5752ab;
+    border-radius: 10px;
+    width: 130px;
+    margin-left: 2px;
+}
+
+.food-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.food-card {
+    height: 225px;
+    background-color: #f6c56e;
+    padding: 15px;
+}
+
+.food-h1 {
+    font-family: "Bree Serif";
+    color: #323f4b;
+}
+
+.food-p {
+    font-family: "Roboto";
+    color: #323f4b;
+    width: 300px;
+}
+
+.food-button {
+    width: 130px;
+    background-color: white;
+}
+
+.food-button-2 {
+    width: 80px;
+}
+
+.news-bg-container {
+    background-image: url(' https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    height: 100vh;
+    background-size: cover;
+    font-family: "Roboto";
+}
+
+.news-card {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.news-h6 {
+    color: #323f4b;
+    font-size: 13px;
+    color: #7b8794;
+}
+
+.news-h1 {
+    font-size: 20px;
+}
+
+.news-button {
+    color: #ffffff;
+    background-color: #323f4b;
+    width: 150px;
+}
+
+.news-button-2 {
+    color: #ffffff;
+    background-color: #323f4b;
+    width: 80px;
+}
+
+.news-p {
+    color: #7b8794;
+}
