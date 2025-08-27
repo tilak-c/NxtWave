@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.body-container {
+    height: 100vh;
+    background-color: #19232d;
+    color: #5a7184;
+}
+
+.image {
+    margin: 10px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+
+.mail>i {
+    width: 40px;
+    height: 40px;
+    padding: 15px 30px 30px 15px;
+    margin-right: 8px;
+    margin-bottom: 9px;
+    background-color: #202b36;
+}
+
+.phone>i {
+    width: 40px;
+    height: 40px;
+    padding: 15px 30px 30px 15px;
+    margin-right: 8px;
+    margin-bottom: 9px;
+    background-color: #202b36;
+}
+
+.skype>i {
+    width: 40px;
+    height: 40px;
+    padding: 15px 30px 30px 15px;
+    margin-right: 8px;
+    margin-bottom: 9px;
+    background-color: #202b36;
+}
+
+.icon-google {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    padding: 15px 30px 30px 15px;
+    background-color: #202b36;
+    color: #5a7184;
+    margin-right: 8px;
+}
+
+.icon-twitter {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    padding: 15px 30px 30px 15px;
+    background-color: #202b36;
+    margin-right: 8px;
+}
+
+.icon-instagram {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    padding: 15px 30px 30px 15px;
+    background-color: #202b36;
+    margin-right: 8px;
+}
+
+.icon-linkedin {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    padding: 15px 30px 30px 15px;
+    background-color: #202b36;
+    margin-right: 8px;
+}
+
+.contact-heading {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.color {
+    color: #5a7184;
+}
