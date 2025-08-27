@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+.upper-part {
+    background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/best-service-stats-sm-bg.png');
+    height: 50vh;
+    background-size: cover;
+}
+
+.image {
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.right-part {
+    margin-left: auto;
+}
+
+.stats-row {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+@media screen and (min-width:992px) {
+    h1 {
+        font-size: 30px;
+    }
+
+    .container {
+        display: flex;
+    }
+
+    .upper-part {
+        background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/best-service-stats-lg-bg-v1.png');
+        width: 550px;
+    }
+
+    .lower-part {
+        width: 500px;
+    }
+
+}
+
+.container-1 {
+    flex-wrap: wrap;
+}
+
+.container-2 {
+    flex-wrap: wrap;
+}
+
+.container-3 {
+    flex-wrap: wrap;
+}
+
+.container-4 {
+    flex-wrap: wrap;
+}
